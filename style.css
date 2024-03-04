@@ -1,0 +1,15 @@
+html{
+    background-color: burlywood;
+}
+
+header{
+    color:brown;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-family: 'Segoe UI';
+}
